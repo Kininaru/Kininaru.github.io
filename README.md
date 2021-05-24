@@ -1,2 +1,1 @@
-# Kininaru Github Pages
-
+# Kininaru.github.io
